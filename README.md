@@ -56,8 +56,8 @@ python app.py
 6. Use test-api.http to test the REST API using the REST Client extension in Visual Studio Code.
 
 ### API Endpoints
-GET /students: Retrieve a list of all students.
-GET /students/{id}: Retrieve details of a student by ID.
-POST /students: Add a new student.
-PUT /students/{id}: Update an existing student by ID.
-DELETE /students/{id}: Delete a student by ID.
+- GET /students: Retrieve a list of all students.
+- GET /students/{id}: Retrieve details of a student by ID.
+- POST /students: Add a new student.
+- PUT /students/{id}: Update an existing student by ID.
+- DELETE /students/{id}: Delete a student by ID.
